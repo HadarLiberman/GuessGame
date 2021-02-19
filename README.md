@@ -1,3 +1,8 @@
 # GuessGame
-This is a gussing game, made with Unity 2d and C#
+Technologies: Unity (C#)
+Main Features:
+   * Work with other developers and artists.
+   * OOP development.
+   * Use physics and other Unity engine libraries.
+   * Use external tools including Admob and
 fun game, you need to think about a number and I am gussing it :)  !!!
